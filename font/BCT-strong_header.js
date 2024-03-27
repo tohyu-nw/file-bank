@@ -1,0 +1,1 @@
+document.write("<header style='padding: 1%;line-height: 100%;background-color: black;'><a href='index.html'><img width='30%' class='font-image' src='https://raw.githubusercontent.com/tohyu-nw/file-bank/main/BCT%20stlong%20logo.png' oncontextmenu='return false;''></a></header>")
